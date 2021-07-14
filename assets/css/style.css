@@ -183,6 +183,8 @@ footer{
     display: block;
 }
 
+/* wedding page */
+
 .wedding .w-hero{
     background-image: url('https://cdn.shopify.com/s/files/1/2059/3443/files/DSC05866-edited_1_b1850bc7-350b-40aa-8c63-aa40f96d57dd.jpg?v=1613550794');
     background-position: center;
@@ -457,7 +459,7 @@ footer{
      display: none;
  }
 
-
+/* wedding page */
  
 .wedding .w-hero{
     height: 100%;
