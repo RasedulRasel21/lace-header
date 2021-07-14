@@ -461,6 +461,14 @@ footer{
  
 .wedding .w-hero{
     height: 100%;
+    padding: 30px;
+}
+.wedding .w-hero h1 {
+    font-size: 32px;
+}
+.wedding .w-hero p {
+    font-size: 14px;
+    line-height: 18px;
 }
 .w-capsule-collection{
     padding: 30px;
@@ -471,6 +479,14 @@ footer{
 .wc-items{
     display: grid;
     grid-template-columns: 1fr;
+}
+.wr-right img{
+    display: none;
+}
+.wr-left h1 {
+    font-size: 24px;
+    letter-spacing: 2px;
+    word-spacing: 0px;
 }
 .w-rings{
     grid-template-columns:  1fr;
